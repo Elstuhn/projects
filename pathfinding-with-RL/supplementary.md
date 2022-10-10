@@ -17,5 +17,5 @@
 
 #### The Bellman Equation
 <img width="447" alt="image" src="https://user-images.githubusercontent.com/66341506/194855286-e22e9ecf-3037-4e07-a1d2-c14c39d2b998.png">
-###### Updating qtable values with the Bellman Equation
+##### Updating qtable values with the Bellman Equation
 <img width="338" alt="image" src="https://user-images.githubusercontent.com/66341506/194863963-fb3b3d6b-2e35-4f30-8093-36f8116145a9.png">
