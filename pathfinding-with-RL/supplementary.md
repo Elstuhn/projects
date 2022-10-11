@@ -10,12 +10,12 @@
 - V is the value of a state which is the expected total reward we can get starting in that state
 
 
-#### Greedy Policy
+### Greedy Policy
 <img width="285" alt="image" src="https://user-images.githubusercontent.com/66341506/194858672-68867d4a-25e3-4248-aea9-b27c25e3422e.png">
 <img width="345" alt="image" src="https://user-images.githubusercontent.com/66341506/194858708-82237429-9c8b-4309-a7b2-24bb21820bea.png">
 
 
-#### The Bellman Equation
+### The Bellman Equation
 <img width="447" alt="image" src="https://user-images.githubusercontent.com/66341506/194855286-e22e9ecf-3037-4e07-a1d2-c14c39d2b998.png">
 
 **Updating qtable values with the Bellman Equation**
