@@ -24,7 +24,9 @@
 
 #### Balancing Exploration and Exploitation
 **Of course we want to promote exploraton in our agent so that the agent can explore every possible move to know which is the best one**
+
 **To do this, we introduce two new variables, Epsilon and Decay**
+
 **Epsilon is the threshold to take a random action, if we generate a random number below the epsilon value, we execute a random action**
 
 
