@@ -22,7 +22,7 @@
 
 <img width="338" alt="image" src="https://user-images.githubusercontent.com/66341506/194863963-fb3b3d6b-2e35-4f30-8093-36f8116145a9.png">
 
-#### Balancing Exploration and Exploitation
+### Balancing Exploration and Exploitation
 **Of course we want to promote exploraton in our agent so that the agent can explore every possible move to know which is the best one**
 
 **To do this, we introduce two new variables, Epsilon and Decay**
