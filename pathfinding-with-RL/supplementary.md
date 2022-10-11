@@ -20,5 +20,5 @@
 **Updating qtable values with the Bellman Equation**
 <img width="338" alt="image" src="https://user-images.githubusercontent.com/66341506/194863963-fb3b3d6b-2e35-4f30-8093-36f8116145a9.png">
 
-###### Notes
+##### Notes
 - Gamma is a discount factor, it balances out immediate and future rewards. Read more about it [here](https://towardsdatascience.com/practical-reinforcement-learning-02-getting-started-with-q-learning-582f63e4acd9#:~:text=gamma%20is%20the%20discount%20factor,varies%20from%200%20to%201.)
