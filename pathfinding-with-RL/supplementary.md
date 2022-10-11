@@ -29,6 +29,11 @@
 
 **Epsilon is the threshold to take a random action, if we generate a random number below the epsilon value, we execute a random action**
 
+<img width="211" alt="image" src="https://user-images.githubusercontent.com/66341506/195113662-05a5f153-ec5a-46d0-b3ab-50ef71478515.png">
+
+**As you explore more options and get further into training, you want to slowly stop exploring and start exploiting more so you introduce decay to slowly reduce the value of epsilon to make the threshold lesser**
+
+<img width="157" alt="image" src="https://user-images.githubusercontent.com/66341506/195113923-f9c0054d-dd88-4a29-8c57-9b4184af3467.png">
 
 ##### Notes
 - Gamma is a discount factor, it balances out immediate and future rewards. Read more about it [here](https://towardsdatascience.com/practical-reinforcement-learning-02-getting-started-with-q-learning-582f63e4acd9#:~:text=gamma%20is%20the%20discount%20factor,varies%20from%200%20to%201.)
