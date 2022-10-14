@@ -11,5 +11,5 @@
 
 ## Method
 - Reset method
-- 
+ 
   eweq
