@@ -11,4 +11,5 @@
 
 ## Method
 - Reset method
+
 ⋅⋅⋅Has to reset current position of agent and set the status of whether training was done or not to False
