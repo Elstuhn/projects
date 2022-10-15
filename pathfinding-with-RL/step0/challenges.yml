@@ -1,0 +1,7 @@
+name: 'Building the environment'
+stepId: step0
+stepBreakDown:
+    - text: 'You should start by creating a class to create the environment your agent will be in'
+    - text: 'Setup the attributes/properties in your class'
+    - text: 'Create the methods needed in your environment'
+    - text: 'Your environmnt class should have all the properties and methods stated in the instructions'
