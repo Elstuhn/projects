@@ -7,5 +7,7 @@ With your environment now created, you will have to interact with the environmen
 - gamma
 - epsilon
 - decay
+- qtable 
 
 **All of these variables are explained in the supplementary file**
+
