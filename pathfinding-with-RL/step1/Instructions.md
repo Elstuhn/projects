@@ -7,7 +7,9 @@ With your environment now created, you will have to interact with the environmen
 - gamma
 - epsilon
 - decay
-- qtable 
+- qtable (a variable containing values for all actions in every possible state)
 
 **All of these variables are explained in the supplementary file**
 
+## Create A Loop
+**You'll have to choose an amount as your epoch, which is the amount of times you want to 'train' your agent (your agent finishes an epoch when it reaches the end)**
