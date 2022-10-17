@@ -1,0 +1,5 @@
+name: 'Initialize variables'
+stepId: step1
+stepBreakDown:
+    - text: 'Create all needed variables mentioned'
+    - text: 'Create a loop for a certain amount of epochs'
