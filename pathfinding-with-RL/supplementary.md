@@ -13,6 +13,7 @@
 ### Greedy Policy
 <img width="285" alt="image" src="https://user-images.githubusercontent.com/66341506/194858672-68867d4a-25e3-4248-aea9-b27c25e3422e.png">
 <img width="345" alt="image" src="https://user-images.githubusercontent.com/66341506/194858708-82237429-9c8b-4309-a7b2-24bb21820bea.png">
+
 **Greedy Policy In Code**
 <img width="283" alt="image" src="https://user-images.githubusercontent.com/66341506/197928945-e1801be5-77ae-4e0b-8669-4f754059ae38.png">
 
