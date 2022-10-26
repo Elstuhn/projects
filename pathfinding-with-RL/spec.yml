@@ -16,7 +16,7 @@ long-description: |
 
     - See how the agent traverses the map at the end of training
 
-    - See how fast the agent finishes training and get insight to the agent's development over time
+    - See how fast the agent finishes training and get insight to the agent's development over time (optional)
 
     The `README.md` file will provide further details about the project. The `supplementary.md` file is where you'll find the equations and their explanations
 
