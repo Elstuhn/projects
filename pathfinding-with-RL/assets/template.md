@@ -1,4 +1,6 @@
-# Environment
+# Note That This Is Only A Template! Not Everything Is Filled And You Will Have To Code Most Parts By Yourself!
+
+## Environment
 ```python
 import numpy as np
 
@@ -46,4 +48,43 @@ class Env:
                 else:
                     print(".", end='')
             print("")
+```
+
+
+## Main
+```py
+from env import Env
+import numpy as np
+import time 
+import os 
+
+
+env = Env()
+qtable = np.random.rand(env.stateCount, env.actionCount).tolist()
+
+epochs = 
+gamma = 
+epsilon = 
+decay = 
+
+for i in range(epochs):
+    state, reward, done = 
+    print(f"Epoch #{i+1}")
+    time.sleep(1)
+    while not done:
+        env.render()
+        time.sleep(0.005)
+        
+        if :
+            action = env.randomAction()
+        else:
+            action = 
+        
+        next_state, reward, done =
+        qtable[state][action] = 
+        state = 
+        
+    epsilon -= 
+        
+    time.sleep(0.8)
 ```
