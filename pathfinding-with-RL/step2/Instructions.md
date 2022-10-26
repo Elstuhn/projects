@@ -7,6 +7,6 @@
 5. Update your qtable using the bellman equation 
 6. Set your current state as the next state returned by the environment's step method
 7. If the status of done is 1, the while loop will be terminated
-8. Decrease epsilon by the product of both epsilon and decay
+8. Decrease epsilon by the product of both epsilon and decay for each epoch
 
 ### That's all there is to it! Now your agent can traverse your map!
