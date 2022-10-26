@@ -1,0 +1,10 @@
+name: 'Main Logic'
+stepId: step2
+stepBreakDown:
+    - text: 'Restart state at start of every epoch'
+    - text: 'Make while loop for while agent is not at the end of map'
+    - text: 'Code your logic for choosing an action'
+    - text: 'Use your chosen action in step method in environment to get next state, reward and status of done'
+    - text: 'Update qtable'
+    - text: 'Set current state as next state'
+    - text: 'Decrease epsilon by product of both epsilon and decay after each epoch
