@@ -18,7 +18,9 @@ long-description: |
 
     - See how fast the agent finishes training and get insight to the agent's development over time (optional)
 
-    The `README.md` file will provide further details about the project. The `supplementary.md` file is where you'll find the equations and their explanations
+    The `supplementary.md` file is where you'll find the equations and their explanations. 
+    
+    I recommend you trying it out yourself but if you're a beginner and really do not understand, `template.md` is there to give you a template of the finished code for you to fill in.
 
     Don't forget to share your submissions with the community to get feedback. All the best.
 
